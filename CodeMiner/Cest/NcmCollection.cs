@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-namespace CodeMiner {
+namespace CodeMiner.Cest {
 
 	/// <summary>
 	/// Representa um código NCM, completo ou parcial.

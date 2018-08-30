@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CodeMiner {
+namespace CodeMiner.Cest {
 
 	/// <summary>
 	/// Representa um código CEST.

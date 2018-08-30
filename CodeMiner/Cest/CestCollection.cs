@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 
-namespace CodeMiner {
+namespace CodeMiner.Cest {
 
 	/// <summary>
 	/// Representa uma coleção de códigos CEST.

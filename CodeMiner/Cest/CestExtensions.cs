@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 
-namespace CodeMiner {
+namespace CodeMiner.Cest {
 
 	/// <summary>
 	/// Possui métodos estáticos úteis para a mineração e manipulação de códigos CEST.
